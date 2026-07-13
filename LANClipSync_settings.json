@@ -1,0 +1,12 @@
+{
+  "device_name": "TEST",
+  "cache_dir": "D:\\clibord\\dist\\temp",
+  "filter_text": true,
+  "filter_image": true,
+  "filter_files": true,
+  "window_x": null,
+  "window_y": null,
+  "window_width": 580,
+  "window_height": 720,
+  "privacy_mode": false
+}

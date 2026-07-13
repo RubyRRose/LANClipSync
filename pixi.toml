@@ -1,0 +1,13 @@
+[workspace]
+authors = ["Mars"]
+channels = ["conda-forge"]
+name = "clibord"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+build = "pyinstaller --onefile --windowed --name LANClipSync --icon=aishaword3.2.ico lanclip_v11_run.py"
+
+[dependencies]
+python = "3.11.*"
+pyinstaller = "*"
